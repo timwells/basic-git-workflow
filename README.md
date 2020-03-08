@@ -1,4 +1,3 @@
 Basic Git Workflow tutorial
 
-
-Text added to master branch
+I made this change from the 'merge-conflict-branch'
